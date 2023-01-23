@@ -3,34 +3,29 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
+
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# DSC New Staff Onboarding 
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 40-60 min
 
-## Why TOOL NAME HERE? 
+## Welcome to the DSC! 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[The Digital Scholarship Commons](https://onlineacademiccommunity.uvic.ca/dsc/){:target="_blank"} is part of the UVic library.  Here we:
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+- Assist faculty, students, and staff in learning digital tools and methodologies to help them pursue their passions and tell their research stories in engaging ways, in a welcoming, equitable, and diverse environment. 
+- Encourage interdisciplinary work across campus in order to spark cross-disciplinary conversations. 
+- Offer services to help our UVic community become well-versed in digital information fluency through one-on-one training, workshops, digital curriculum development advice, tools, software, and more.
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives 
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Understand how 3D printing and laser cutting at the DSC works
+2. Navigate the DSC web app on the user and admin side
+3. Answer frequently asked questions when working at the DSC assistant desk
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
