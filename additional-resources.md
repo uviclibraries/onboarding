@@ -5,7 +5,9 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## Staff Resources
+- Google Drive
+- DSC Website
 
 
 ## Acknowledgements
