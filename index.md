@@ -4,17 +4,17 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/ship_art.png" style="float:right;width:180px;" alt="image description">
+<img src="images/ship_art.png" style="float:right;width:180px;" alt="ship outline">
 
 # DSC New Staff Onboarding 
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 10 min
-- Hands-on activities: 40-60 min
+- Hands-on activities: 50-120 min
 
 ## Welcome to the DSC! 
 
-[The Digital Scholarship Commons](https://onlineacademiccommunity.uvic.ca/dsc/){:target="_blank"} is part of the UVic library.  Here we:
+[The Digital Scholarship Commons](https://onlineacademiccommunity.uvic.ca/dsc/){:target="_blank"} is part of the UVic library and is located on the 3rd floor.  Here we:
 
 - Assist faculty, students, and staff in learning digital tools and methodologies to help them pursue their passions and tell their research stories in engaging ways, in a welcoming, equitable, and diverse environment. 
 - Encourage interdisciplinary work across campus in order to spark cross-disciplinary conversations. 

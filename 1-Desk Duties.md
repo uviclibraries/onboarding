@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 
 # DSC Front Desk Duties
-
+The DSC Desk is the first point of contact for students, staff, faculty and community members entering the DSC space.  When working at the desk, your main task is to direct traffic and answer questions.
 
 1. If you are first at the desk for the day:
     - get the DSC desk key from the office cabinet
@@ -18,8 +18,9 @@ parent: Workshop Activities
     - put away the key in the office cabinet (if you are working after hours and the office is locked, keep the key inside the cabinet)
     - Put up the closed sign
 
-3. Tracking desk traffic: [https://docs.google.com/forms/d/e/1FAIpQLScFA_hQrWr-IlVN0zp_ha9dMO6IJOV1Qsxdu5sQdpiQMRnzLg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScFA_hQrWr-IlVN0zp_ha9dMO6IJOV1Qsxdu5sQdpiQMRnzLg/viewform)
+3. Track interactions here: [https://docs.google.com/forms/d/e/1FAIpQLScFA_hQrWr-IlVN0zp_ha9dMO6IJOV1Qsxdu5sQdpiQMRnzLg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScFA_hQrWr-IlVN0zp_ha9dMO6IJOV1Qsxdu5sQdpiQMRnzLg/viewform)
     - If the Audience type is unknown, you can leave it blank
+    - Time spent can be a rough best estimate.
 
-4. Large Format Printing: [Google Drive instructions](https://docs.google.com/document/d/1rSmanPw3Syy8qlTgIyckcR5QKKcHGdS-/edit)
+4. Large Format Printing is different from normal library print jobs.  Instructions are found here: [Google Drive instructions](https://docs.google.com/document/d/1rSmanPw3Syy8qlTgIyckcR5QKKcHGdS-/edit)
 
