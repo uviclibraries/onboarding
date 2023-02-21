@@ -32,6 +32,7 @@ parent: Workshop Activities
     - practise changing the filament in the printers
     - practise removing a completed print from the printbed
     - practise swapping out the glass printbed
+    - practise labeling and dropping off a completed print
     - optional: practise removing supports from a print
     - optional: practise Hot & Cold pulls
 
