@@ -32,6 +32,7 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
 
 5. Managing the DSC Space and Tools:
     - Students are allowed to talk in the DSC area, although the rest of the 3rd floor is silent space.  If volume gets too loud, you can politely remind them that sound travels easily to other areas of the library.
+    - The red carpeted corridor leading from the doors next to the DSC desk to the back offices **must be clear at all times**.  It is a fire corridor and cannot be blocked.
     - Students and faculty can use the special software (Adobe suite and Scanning) computers first-come-first-serve.  Instructions on using the scanner are taped to the top of the scanner.
     - Special equipment (digital calipers, hand tools, etc) can be borrowed and used **In the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits** are loaned out from the main library desk.
 
