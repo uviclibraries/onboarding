@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1 - Desk Duties
-nav_order: 2
+title: 2 - Events and Workshops
+nav_order: 3
 parent: Workshop Activities
 ---
 
