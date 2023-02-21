@@ -6,7 +6,6 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Resize Your Laptop Screen for Workshop Handouts (2 min)<br> [https://www.youtube.com/embed/Igk5hZUfzN0](https://www.youtube.com/embed/Igk5hZUfzN0)
 
 [NEXT STEP: Desk Duties](1-Desk Duties.html){: .btn .btn-blue }
