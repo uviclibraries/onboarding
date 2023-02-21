@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Laser Cutting
+title: 5 - Laser Cutting
 nav_order: 6
 parent: Workshop Activities
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-3D Printing
+title: 3 - 3D Printing
 nav_order: 4
 parent: Workshop Activities
 ---
