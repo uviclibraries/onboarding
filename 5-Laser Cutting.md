@@ -20,3 +20,5 @@ The laser cutter is the DSC's newest piece of equipment.  It can cut or engrave 
     - practise editing, double checking positing, and starting laser cut jobs in Trotec Ruby
     - learn about fire protocols and laser safety (don't look directly at the laser beam)
     - optional: take the Uvic laser safety training course: [https://www.uvic.ca/ohse/training/research-safety/laser-safety/index.php](https://www.uvic.ca/ohse/training/research-safety/laser-safety/index.php)
+
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }

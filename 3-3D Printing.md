@@ -37,4 +37,4 @@ parent: Workshop Activities
     - optional: practise Hot & Cold pulls
 
 
-[NEXT STEP: Navigating the Web App](2-Web App.html){: .btn .btn-blue }
+[NEXT STEP: Navigating the Web App](4-Web App.html){: .btn .btn-blue }

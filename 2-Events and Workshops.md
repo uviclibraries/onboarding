@@ -18,3 +18,4 @@ parent: Workshop Activities
     
 4. After an event, the organizers are responsible for returning tables & chairs to their **original configuration**.  A guide to the default table setup is taped on the wall next to the AV cabinet.
 
+[NEXT STEP: 3D Printing](3-3D Printing.html){: .btn .btn-blue }
