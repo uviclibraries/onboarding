@@ -5,12 +5,15 @@ nav_order: 4
 parent: Workshop Activities
 ---
 # 3D Printing
+<img src="images/3-3Dkeychain.jpg" style="float:right;width:180px;" alt="keychain">
 
 1. Please review the following [Workshop on 3D printing](https://uviclibraries.github.io/3d-design-print/){:target="_blank"} 
 
-2. Read the Staff Printing guide here [https://docs.google.com/document/d/1WWErUqDHkZ28AamaiD-OEPgqqcGV4j3bq1SJS6cPkXA/edit#heading=h.qr0lyvmiwu70](https://docs.google.com/document/d/1WWErUqDHkZ28AamaiD-OEPgqqcGV4j3bq1SJS6cPkXA/edit#heading=h.qr0lyvmiwu70){:target="_blank"} 
+2. Read the Staff Printing guide here: [https://docs.google.com/document/d/1WWErUqDHkZ28AamaiD-OEPgqqcGV4j3bq1SJS6cPkXA/edit#heading=h.qr0lyvmiwu70](https://docs.google.com/document/d/1WWErUqDHkZ28AamaiD-OEPgqqcGV4j3bq1SJS6cPkXA/edit#heading=h.qr0lyvmiwu70){:target="_blank"} 
 
 3. Read the pamphlets on 3D printing at the DSC desk.
+
+
 
 4. Browse some 3D prints on [thingiverse](https://www.thingiverse.com/){:target="_blank"}  and [printables](https://www.printables.com/model){:target="_blank"}.  Get familiar with the wide array of items and download one or two items you find interesting.
 
@@ -28,6 +31,8 @@ parent: Workshop Activities
     - Select Generic TPU.  Enter Filament Cost as 0.2g, and Filament Weight as 1g.
     - Repeat these steps for PVA (Ultimaker Natural), TPU95A (Ultimaker White and Black) and the Ultimaker brand PLA colors if desired (we usually don't have any in stock so this is optional)
     - Close the window when finished.  Now Cura will tell you the cost of prints automatically!
+
+<img src="images/3-fidgetspinner.jpg" style="float:right;width:180px;" alt="fidget spinner">
 
 8. Hands-on training: 
     - practise sending a file to 3D print
