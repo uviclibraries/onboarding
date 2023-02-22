@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Onboarding Workshop
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/onboarding/
