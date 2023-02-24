@@ -18,4 +18,10 @@ parent: Workshop Activities
     
 4. After an event, the organizers are responsible for returning tables & chairs to their **original configuration**.  A guide to the default table setup is taped on the wall next to the AV cabinet.
 
+5. Workshops need to be reviewed frequently. Software interfaces may change, or maybe you have a great idea for a new activity.  Depending on your role you may or may not directly edit workshop content, and everyone can contribute to keeping workshop content up to date.
+    - Workshop content can be accessed from the DSC lesson plans page: [https://onlineacademiccommunity.uvic.ca/dsc/workshops/lessonplans/](https://onlineacademiccommunity.uvic.ca/dsc/workshops/lessonplans/){:target="_blank"}
+    - The Hypothesis chrome plugin lets you add comments directly to web pages: [https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek){:target="_blank"}
+    - Instructions on using Hypothesis can be found here: [https://trello.com/c/IaTlWcuK/485-use-hypothesis-for-reviewing-workshops](https://trello.com/c/IaTlWcuK/485-use-hypothesis-for-reviewing-workshops){:target="_blank"}
+    - If you have edit access to one or more workshops, they are hosted on GitHub here: [https://github.com/uviclibraries](https://github.com/uviclibraries){:target="_blank"}
+
 [NEXT STEP: 3D Printing](3-3D Printing.html){: .btn .btn-blue }
