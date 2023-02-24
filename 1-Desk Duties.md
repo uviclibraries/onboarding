@@ -15,8 +15,8 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
 
 2. If you are **last** to leave:
     - put away the phone and lock the desk drawer
-    - put away the key in the office cabinet (if you are working after hours and the office is locked, keep the key inside the cabinet)
-    - If the waste bin is full dispose of it in the larger bins by the metal DSC signage.  Janitorial staff usually miss the DSC bin when they do their rounds, so please do this regularly.
+    - put away the key in the office cabinet
+    - If the waste bin is full dispose of it in the larger bins by the metal DSC signage.  Janitorial staff usually miss the DSC desk bin when they do their rounds, so please do this regularly.
     - Put up the closed sign
 
 3. Answering questions at the desk:
@@ -35,5 +35,13 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
     - The red carpeted corridor leading from the doors next to the DSC desk to the back offices **must be clear at all times**.  It is a fire corridor and cannot be blocked.
     - Students and faculty can use the special software (Adobe suite and Scanning) computers first-come-first-serve.  Instructions on using the scanner are taped to the top of the scanner.
     - Special equipment (digital calipers, hand tools, etc) can be borrowed and used **In the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits** are loaned out from the main library desk.
+
+    <img src="images/1-Trello.png" style="margin-left:20px; float:right;width:100px;" alt="trello">
+6. Additional Projects and Tasks
+    - DSC projects and tasks are managed with **Trello**: [https://trello.com/b/PcVNYlLM/digital-scholarship-commons](https://trello.com/b/PcVNYlLM/digital-scholarship-commons){:target="_blank"}
+    - You can work on tasks assigned to you, or assign yourself a task from the **Unassigned Projects** column. <img src="images/1-filter.png" style="margin-left:20px; float:right;width:90px;" alt="filter">
+    - You can easily see the tasks assigned to you by using the Filter button.
+    - Once you have finished a task, move the task card to **Ready for Review**.  Rich will move the card to Completed Projects after reviewing.
+   
 
     [NEXT STEP: Events and Workshops](2-Events and Workshops.html){: .btn .btn-blue }
