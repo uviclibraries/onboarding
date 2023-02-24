@@ -6,9 +6,9 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Staff Resources
-- Google Drive
-- DSC Website
-- Trello Board Tasks: [https://trello.com/b/PcVNYlLM/digital-scholarship-commons](https://trello.com/b/PcVNYlLM/digital-scholarship-commons)
+- [Google Drive](https://drive.google.com/drive/folders/0BxJ017RDW9tGdWJaWE81SGZKc3M?resourcekey=0-wzBHdf7U1XWSaQRKbOLWdQ){:target="_blank"}
+- [DSC Website](https://onlineacademiccommunity.uvic.ca/dsc/){:target="_blank"}
+- Trello Board: [https://trello.com/b/PcVNYlLM/digital-scholarship-commons](https://trello.com/b/PcVNYlLM/digital-scholarship-commons){:target="_blank"}
 - Github markdown references: 
     - [https://docs.google.com/document/d/1kwmULaiC4igC1DS6neg71kZ_aKs0ngR_1Mb7kW-LLdI/edit](https://docs.google.com/document/d/1kwmULaiC4igC1DS6neg71kZ_aKs0ngR_1Mb7kW-LLdI/edit)
     - [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -20,6 +20,6 @@ nav_order: 10
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- **MORE ACKNOWLEDGEMENTS HERE**
+- Victoria Hartman
 
 [NEXT STEP: land ackowledgement](land-acknowledgement.html){: .btn .btn-blue }
