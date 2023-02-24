@@ -31,8 +31,7 @@ parent: Workshop Activities
     - Select Generic TPU.  Enter Filament Cost as 0.2g, and Filament Weight as 1g.
     - Repeat these steps for PVA (Ultimaker Natural), TPU95A (Ultimaker White and Black) and the Ultimaker brand PLA colors if desired (we usually don't have any in stock so this is optional)
     - Close the window when finished.  Now Cura will tell you the cost of prints automatically!
-
-<img src="images/3-fidgetspinner.jpg" style="float:right;width:180px;" alt="fidget spinner">
+        <img src="images/3-fidgetspinner.jpg" style="float:right;width:180px;" alt="fidget spinner">
 
 8. Hands-on training: 
     - practise sending a file to 3D print

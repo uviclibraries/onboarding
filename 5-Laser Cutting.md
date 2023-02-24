@@ -9,7 +9,7 @@ The laser cutter is the DSC's newest piece of equipment.  It can cut or engrave 
 
 1. Read the laser cutting FAQ: [https://onlineacademiccommunity.uvic.ca/dsc/how-to-laser-cut/](https://onlineacademiccommunity.uvic.ca/dsc/how-to-laser-cut/)
 
-<img src="images/5-inkscape-logo.png" style="float:right;width:150px;" alt="inkscape">
+    <img src="images/5-inkscape-logo.png" style="float:right;width:150px;" alt="inkscape">
 
 2. Read how to price laser cutting jobs in the web app with Inkscape: [https://docs.google.com/document/d/1AjjRaYBW3XyI8Syf6feJVh-oIfTr6Jt0sXyDN-XdJWE/edit](https://docs.google.com/document/d/1AjjRaYBW3XyI8Syf6feJVh-oIfTr6Jt0sXyDN-XdJWE/edit)
 
