@@ -9,15 +9,17 @@ parent: Workshop Activities
 The DSC Desk is the first point of contact for students, staff, faculty and community members entering the DSC space.  When working at the desk, your main duties are to direct traffic and answer questions.
 
 1. If you are **first at the desk** for the day:
-    - get the DSC desk key from the office cabinet (or the top drawer)
-    - Plug in the telephone
-    - Put away the closed sign
+    - get the DSC desk key from the office cabinet
+    - sign out DSC storage room key from the library front desk (1st floor)
+    - plug in the telephone
+    - put away the closed sign
 
 2. If you are **last** to leave:
     - put away the phone and lock the desk drawer
-    - put away the key in the office cabinet
-    - If the waste bin is full dispose of it in the larger bins by the metal DSC signage.  Janitorial staff usually miss the DSC desk bin when they do their rounds, so please do this regularly.
-    - Put up the closed sign
+    - put away the key in the office cabinet 
+    - Return DSC storage room key to the front desk if you've checked it out
+    - if the waste bin is full dispose of it in the larger bins by the metal DSC signage.  Janitorial staff usually miss the DSC desk bin when they do their rounds, so please do this regularly.
+    - put up the closed sign
 
 3. Answering questions at the desk:
     - Directions and printing questions are most common.  Make sure you're familiar with major library locations ([https://www.uvic.ca/library/use/floormaps/index.php](https://www.uvic.ca/library/use/floormaps/index.php){:target="_blank"}) and the DSC website [FAQ](https://onlineacademiccommunity.uvic.ca/dsc/faq/){:target="_blank"}
