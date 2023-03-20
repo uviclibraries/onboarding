@@ -9,8 +9,8 @@ parent: Workshop Activities
 The DSC Desk is the first point of contact for students, staff, faculty and community members entering the DSC space.  When working at the desk, your main duties are to direct traffic and answer questions.
 
 1. If you are **first at the desk** for the day:
-    - get the DSC desk key from the office cabinet
     - sign out DSC storage room key from the library front desk (1st floor)
+    - get the DSC desk key from the office cabinet
     - plug in the telephone
     - put away the closed sign
 

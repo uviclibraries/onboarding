@@ -11,6 +11,7 @@ parent: Workshop Activities
     - There should also be a paper copy of the week's events posted at both DSC entrances, the template is here: [https://docs.google.com/presentation/d/1pcXJKexWYgPVvqX0vPmUwvSdr3dsn3UYctJPX_Ri0tI/edit#slide=id.p](https://docs.google.com/presentation/d/1pcXJKexWYgPVvqX0vPmUwvSdr3dsn3UYctJPX_Ri0tI/edit#slide=id.p){:target="_blank"}
 
 2. If there is a scheduled workshop or event, place **Reserved** signs on the front tables (or all tables if the whole room is reserved) about 1 hour ahead of scheduled start time.  The overhead projector should show the event and reserved time for the day.
+    - 'Reserved' signs are stored in the second drawer of the DSC assistant desk.
     - A detailed guide to setting up the AV cabinet for hybrid workshops is here (depending on your role you may or may not be responsible for setup): [https://docs.google.com/document/d/1yevYatroOnBSGE5fmOH2rbSlWUzxJsPy/edit#heading=h.gjdgxs](https://docs.google.com/document/d/1yevYatroOnBSGE5fmOH2rbSlWUzxJsPy/edit#heading=h.gjdgxs){:target="_blank"}
         - you can also find a paper copy of this inside the AV cabinet.
 
