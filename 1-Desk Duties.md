@@ -21,8 +21,7 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
     - Return DSC storage room key to the front desk if you've checked it out
     - if the waste bin is full dispose of it in the larger bins by the metal DSC signage.  Janitorial staff usually miss the DSC desk bin when they do their rounds, so please do this regularly.
     - put up the closed sign
-
- <img src="images/1-map.png" style="margin-left:20px; float:right;width:250px;" alt="map">
+    <img src="images/1-map.png" style="margin-left:20px; float:right;width:250px;" alt="map">
 
 3. Answering questions at the desk:
     - Directions and printing questions are most common.  Make sure you're familiar with major library locations ([https://www.uvic.ca/library/use/floormaps/index.php](https://www.uvic.ca/library/use/floormaps/index.php){:target="_blank"}) and the DSC website [FAQ](https://onlineacademiccommunity.uvic.ca/dsc/faq/){:target="_blank"}

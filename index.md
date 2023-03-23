@@ -20,7 +20,7 @@ nav_order: 1
 - Encourage interdisciplinary work across campus in order to spark cross-disciplinary conversations. 
 - Offer services to help our UVic community become well-versed in digital information fluency through one-on-one training, workshops, digital curriculum development advice, tools, software, and more.
 
-<img src="images/1-hallway.jpg" style="margin-left:20px; width:500px;" alt="dsc directions">
+<img src="images/hallway.jpg" style="margin-left:20px; width:500px;" alt="dsc directions">
 
 ## Learning objectives 
 

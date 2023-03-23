@@ -5,6 +5,9 @@ nav_order: 6
 parent: Workshop Activities
 ---
 <img src="images/5-trotec laser.png" style="float:right;width:140px;" alt="trotec laser">
+
+# Laser Cutting
+
 The laser cutter is the DSC's newest piece of equipment.  It can cut or engrave wood, paper, cardboard, and more.  Currently, only full time staff can operate the laser cutter alone.
 
 1. Read the laser cutting FAQ: [https://onlineacademiccommunity.uvic.ca/dsc/how-to-laser-cut/](https://onlineacademiccommunity.uvic.ca/dsc/how-to-laser-cut/)
@@ -14,6 +17,8 @@ The laser cutter is the DSC's newest piece of equipment.  It can cut or engrave 
 2. Read the Laser Cutting Staff Guide: [https://docs.google.com/document/d/1AjjRaYBW3XyI8Syf6feJVh-oIfTr6Jt0sXyDN-XdJWE/edit](https://docs.google.com/document/d/1AjjRaYBW3XyI8Syf6feJVh-oIfTr6Jt0sXyDN-XdJWE/edit)
 
 3. Go through the laser cutting workshop: [lib.uvic.ca/lasdes](https://uviclibraries.github.io/laser/)
+
+<img src="images/5-laser_book.jpg" style="float:right;margin-left:20px;width:150px;" alt="inkscape">
 
 4. Depending on your position, gain hands-on training to use the laser cutter safely.  _Note: Do not operate the laser cutter alone before getting approval from your supervisor._
     - practise turning the laser cutter and filter on and off

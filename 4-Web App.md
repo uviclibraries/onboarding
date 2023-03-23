@@ -4,6 +4,7 @@ title: 4 - Web App
 nav_order: 5
 parent: Workshop Activities
 ---
+# Web App
 
 3D Printing and Laser Cutting requests are submitted via the DSC Web App: [https://webapp.library.uvic.ca/3dprint/customer-dashboard.php](https://webapp.library.uvic.ca/3dprint/customer-dashboard.php).  Open the link and follow the instructions below to get familiar with how to use the app.
 
