@@ -4,11 +4,14 @@ title: 2 - Events and Workshops
 nav_order: 3
 parent: Workshop Activities
 ---
+<img src="images/2-buttons.jpg" style="margin-left:20px; float:right;width:200px;" alt="buttons">
 
 # DSC Events and Workshops
 
 1. The DSC room booking schedule is here: [https://webapp.library.uvic.ca/dscommons/week.php](https://webapp.library.uvic.ca/dscommons/week.php){:target="_blank"}
     - There should also be a paper copy of the week's events posted at both DSC entrances, the template is here: [https://docs.google.com/presentation/d/1pcXJKexWYgPVvqX0vPmUwvSdr3dsn3UYctJPX_Ri0tI/edit#slide=id.p](https://docs.google.com/presentation/d/1pcXJKexWYgPVvqX0vPmUwvSdr3dsn3UYctJPX_Ri0tI/edit#slide=id.p){:target="_blank"}
+
+<img src="images/1-DSC-space.jpg" style="float:right;width:300px;" alt="dsc">
 
 2. If there is a scheduled workshop or event, place **Reserved** signs on the front tables (or all tables if the whole room is reserved) about 1 hour ahead of scheduled start time.  The overhead projector should show the event and reserved time for the day.
     - 'Reserved' signs are stored in the second drawer of the DSC assistant desk.

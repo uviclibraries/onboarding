@@ -17,6 +17,8 @@ parent: Workshop Activities
 
 4. Browse some 3D prints on [thingiverse](https://www.thingiverse.com/){:target="_blank"}  and [printables](https://www.printables.com/model){:target="_blank"}.  Get familiar with the wide array of items and download one or two items you find interesting.
 
+<img src="images/3-cura.png" style="float:right;width:50px;" alt="cura logo">
+
 5. Make sure you are able to open and navigate **Cura** on the DSC computer and that both **Claudia** and **Brunel** are connected. Open the files you downloaded and spend some time moving them around, changing the scale, and changing the print settings.
     - If you need help using Ultimaker Cura, the official support page is here: [https://support.makerbot.com/s/topic/0TO5b000000Q4wVGAS/using-ultimaker-cura](https://support.makerbot.com/s/topic/0TO5b000000Q4wVGAS/using-ultimaker-cura){:target="_blank"} 
     - Google is also a great tool!
