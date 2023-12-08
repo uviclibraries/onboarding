@@ -9,10 +9,13 @@ parent: Workshop Activities
 1. First create an account using [Badgr US](https://badgr.com/auth/login){:target="_blank"}  and make sure to log in to the account in order to accept the invitation
 2. You will receive an invitation from Canvas Credentials saying “you have been invited to be an editor for the University of Victoria Libraries -Digital Scholarship Commons. View and Accept invitation.
 3. Once you have accepted the invitation and see the DSC as a personal issuer
+<img src="images/issuer.png" 
 4. Click on the view issuer, this will show the list of badges that are offered.
 5. Next, select the badge you wish to issue.
 6. Click **award badge**
+   <img src="images/badge-award.png" 
 7. Copy and paste the email address of Badge earner in the identifier email address.Then press **award badge**.
+ <img src="images/email.png"   
 8. Once you have awarded the badge to the workshop participant send this message to the email address provided.
 
 ```
