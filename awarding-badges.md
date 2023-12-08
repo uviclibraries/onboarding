@@ -29,11 +29,10 @@ Cheers, _______________
 
 P.S. Never forget learning is not a spectator sport!
 ```
-
-     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-     <div id="gif1">
-     <img src="images/badgr-digital-badges.gif">
-     </div>
+  <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/badgr-digital-badges.gif">
+      </div>
 
  <script>  
 
