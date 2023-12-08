@@ -46,7 +46,4 @@ P.S. Never forget learning is not a spectator sport!
     }
 </script>
 
-[NEXT STEP: Additional Ressources](additional-ressources.html){: .btn .btn-blue }
-
-
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
