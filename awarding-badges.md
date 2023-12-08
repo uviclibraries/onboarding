@@ -15,7 +15,7 @@ parent: Workshop Activities
 7. Copy and paste the email address of Badge earner in the identifier email address.Then press **award badge**.
 8. Once you have awarded the badge to the workshop participant send this message to the email address provided.
 
-   ```
+```
 Great job!  Your digital badge is on its way to you. Here are instructions on how to add your badge to your LinkedIn certifications: https://lib.uvic.ca/badges
 
 If you would like to check out some of our other DSC workshops, you can see what we have coming up here: https://lib.uvic.ca/curric
@@ -25,7 +25,7 @@ Lastly, we'd love to get your feedback on what aspect of the workshop was most h
 Cheers, _______________
 
 P.S. Never forget learning is not a spectator sport!
-    ```
+```
 
 
 
