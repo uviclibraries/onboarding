@@ -30,6 +30,22 @@ Cheers, _______________
 P.S. Never forget learning is not a spectator sport!
 ```
 
+     <button onclick="toggle('gif1')">Show/Hide Animation</button>
+     <div id="gif1">
+     <img src="images/badgr-digital-badges.gif">
+     </div>
+
+ <script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 
 
