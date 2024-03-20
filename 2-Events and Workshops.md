@@ -2,7 +2,7 @@
 layout: default
 title: 2 - Events and Workshops
 nav_order: 3
-parent: Workshop Activities
+parent: General Responsabilities
 ---
 <img src="images/2-buttons.jpg" style="margin-left:20px; float:right;width:250px;" alt="buttons">
 
