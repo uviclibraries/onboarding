@@ -33,13 +33,14 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
 
 4. Paper Printing:
     - Instructions for student printing at the library are located above the DSC printers (QR code)
-    - **Large Format Printing** is different from normal library print jobs and can't be paid through the normal system.  Instructions are found here: [Google Drive instructions](https://docs.google.com/document/d/1rSmanPw3Syy8qlTgIyckcR5QKKcHGdS-/edit){:target="_blank"}
+        - Note that our black and white printer is named differently than the rest of the BW printers in the library. *Our printer is named "LIBRBW-R on papercutprint.*
+    - **Large Format Printing** is different from normal library print jobs and goes through the web app.  Instructions are found here: [Google Drive instructions](https://docs.google.com/document/d/1rSmanPw3Syy8qlTgIyckcR5QKKcHGdS-/edit){:target="_blank"}
 
 5. Managing the DSC Space and Tools:
     - Students are allowed to talk in the DSC area, although the rest of the 3rd floor is silent space.  If volume gets too loud, you can politely remind them that sound travels easily to other areas of the library.
     - The red carpeted corridor leading from the doors next to the DSC desk to the back offices **must be clear at all times**.  It is a fire corridor and cannot be blocked. <img src="images/1-equipment_collage.jpg" style="margin-left:20px; float:right;width:250px;" alt="equipment">
     - Students and faculty can use the special software (Adobe suite, FineReader, and Scanning) computers first-come-first-serve.  Instructions on using the scanner are taped to the top of the scanner. 
-    - Special equipment (digital calipers, hand tools, etc) can be borrowed and used **In the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits** are loaned out from the main library desk.
+    - Special equipment (digital calipers, hand tools, sewing machine, etc) can be borrowed and used **In the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits and recording equipment** are loaned out from the main library desk.
 
     <img src="images/1-Trello.png" style="margin-left:20px; float:right;width:100px;" alt="trello">
 
