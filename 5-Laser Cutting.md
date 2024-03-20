@@ -8,7 +8,7 @@ parent: General Responsabilities
 
 # Laser Cutting
 
-The laser cutter is the DSC's newest piece of equipment.  It can cut or engrave wood, paper, cardboard, and more.  Currently, only full time staff can operate the laser cutter alone.
+The laser cutter can cut or engrave wood, paper, cardboard, and more.  Currently, only full-time staff can operate the laser cutter alone.
 
 1. Read the laser cutting FAQ: [https://onlineacademiccommunity.uvic.ca/dsc/how-to-laser-cut/](https://onlineacademiccommunity.uvic.ca/dsc/how-to-laser-cut/)
 
