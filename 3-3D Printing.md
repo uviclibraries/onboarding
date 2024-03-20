@@ -2,7 +2,7 @@
 layout: default
 title: 3 - 3D Printing
 nav_order: 4
-parent: Workshop Activities
+parent: General Responsabilities
 ---
 # 3D Printing
 
