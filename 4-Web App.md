@@ -2,7 +2,7 @@
 layout: default
 title: 4 - Web App
 nav_order: 5
-parent: Workshop Activities
+parent: General Responsabilities
 ---
 # Web App
 
