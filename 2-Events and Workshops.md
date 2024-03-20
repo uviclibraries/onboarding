@@ -6,7 +6,7 @@ parent: General Responsabilities
 ---
 <img src="images/2-buttons.jpg" style="margin-left:20px; float:right;width:250px;" alt="buttons">
 
-# DSC Events and Workshops
+# DSC Events
 
 1. The DSC room booking schedule is here: [https://webapp.library.uvic.ca/dscommons/week.php](https://webapp.library.uvic.ca/dscommons/week.php){:target="_blank"}
     - There should also be a paper copy of the week's events posted at both DSC entrances, the template is here: [https://docs.google.com/presentation/d/1pcXJKexWYgPVvqX0vPmUwvSdr3dsn3UYctJPX_Ri0tI/edit#slide=id.p](https://docs.google.com/presentation/d/1pcXJKexWYgPVvqX0vPmUwvSdr3dsn3UYctJPX_Ri0tI/edit#slide=id.p){:target="_blank"}
