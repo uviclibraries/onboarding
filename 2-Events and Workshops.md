@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Events and Workshops
+title: 2 - Events 
 nav_order: 3
 parent: General Responsabilities
 ---
