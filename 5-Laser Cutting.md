@@ -2,7 +2,7 @@
 layout: default
 title: 5 - Laser Cutting
 nav_order: 6
-parent: Workshop Activities
+parent: General Responsabilities
 ---
 <img src="images/5-trotec laser.png" style="float:right;width:140px;" alt="trotec laser">
 
