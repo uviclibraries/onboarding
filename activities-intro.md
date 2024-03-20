@@ -2,7 +2,7 @@
 layout: default
 title: Activities Introduction
 nav_order: 1
-parent: Workshop Activities
+parent: General Responsabilities
 ---
 # Hands-On Activities Introduction
 - Read through these [Introductory Slides](https://docs.google.com/presentation/d/11G9RbRKQoxdzN8Fg6zuWpxUE7cLM6AWSij7Ij3RpHzg/edit#slide=id.g26df76a01b_0_1){:target="_blank"}
