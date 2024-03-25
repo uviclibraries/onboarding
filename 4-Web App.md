@@ -33,8 +33,9 @@ parent: General Responsabilities
 8. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise).
     - Items need to be financially linked, to do this, select one item and mark the other models that are being priced together as **children**.
     - You can change the status of multiple linked jobs, or multiple active jobs for the same user simultaneously by checking the **"Update statuses to match"** box.
-    - By updating statuses to match, we can avoid forgetting to move one model in the queue, reducing chances of errors. 
-        - Note that you cannot update statuses to match and abandon a job as a child simultaneously. 
+    - By updating statuses to match, we can avoid forgetting to move one model in the queue, reducing the chances of errors. 
+        - Note that you cannot update statuses to match and abandon a job as a child simultaneously.
+    - When jobs have been set as parent and child(ren), the user will only be able to pay for the set as a whole, if they try to pay from the job page of a child, they will see a message similar to the one on the right. 
     - If updating statuses individually (rare), when we save a job as 'pending payment' or 'completed', an email is automatically sent to the user.  Since we don't want to send multiple emails for a bundle of prints, make sure to **uncheck Enable Email** at the bottom of the page for every print **other than the one you've priced**.
   
 9. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
