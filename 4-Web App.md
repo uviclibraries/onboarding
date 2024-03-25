@@ -19,21 +19,23 @@ parent: General Responsabilities
     - **Manage Printers:** old function, no longer used
     - **Manage Users:** lets you search user contact information
 
-4. The main admin dashboard sorts each job by status: submitted, payment pending, paid, printing, completed, and archived.  click on a submitted job to see more information.
+4. The main admin dashboard sorts each job by status: submitted, payment pending, paid, printing, completed, and archived.  Click on a submitted job to see more information.
 
 5. When a job is submitted, open it and download the file.  Open the file in Cura, then check all of the requested settings. <img src="images/3-download.png" style="margin-left:20px; float:right; width:150px;" alt="dashboard menu">
     - The settings that most often are missed when pricing are the **Number of Copies** and special settings in the **comments box** like colour, sizing, etc.
     - Change settings as needed in Cura, then **Slice** to calculate the price.  PLA and PETG are **$0.10/gram**, PVA and TPU95 are **$0.20/gram**.
     - Enter the price in the web app, set Status to Pending Payment, and click **Save**.
+  
+6. Academic jobs are identified by users upon submission of a job. For these jobs, users can identify a deadline for their project.
 
-6. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise).
+7. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise).
     - Items need to be financially linked, to do this, select one item and mark the other models that are being priced together as **children**.
     - You can change the status of multiple linked jobs, or multiple active jobs for the same user simultaneously by checking the **"Update statuses to match"** box.
     - By updating statuses to match, we can avoid forgetting to move one model in the queue, reducing chances of errors. 
         - Note that you cannot update statuses to match and abandon a job as a child simultaneously. 
     - If updating statuses individually (rare), when we save a job as 'pending payment' or 'completed', an email is automatically sent to the user.  Since we don't want to send multiple emails for a bundle of prints, make sure to **uncheck Enable Email** at the bottom of the page for every print **other than the one you've priced**.
   
-7. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
+8. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
    - Depending on your role, you may be asked to email users about their print jobs.
    - By being at the "On hold" status, all staff members can know that communication is happening between staff and the user, avoiding prematurely pricing a faulty model.
    - Jobs should only be taken out of the "On Hold" status by staff members who are communicating specifically with a user about their project. 
