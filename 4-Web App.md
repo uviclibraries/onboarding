@@ -28,7 +28,7 @@ parent: General Responsabilities
   
 6. Academic jobs are identified by users upon submission of a job. For these jobs, users can identify a deadline for their project. 
     - The course code and submission deadlines can be seen on the job information page.
-    - In the dashboard, "purpose" is identified as academic or personal (with academic jobs being at the top of the list). Academic jobs are prioritized over personal jobs
+    - In the dashboard, "purpose" is identified as academic or personal (with academic jobs being at the top of the list). Academic jobs are prioritized over personal jobs to meet as many timelines as possible. 
 
 8. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise).
     - Items need to be financially linked, to do this, select one item and mark the other models that are being priced together as **children**.
@@ -40,9 +40,13 @@ parent: General Responsabilities
 9. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
    - Depending on your role, you may be asked to email users about their print jobs.
    - By being at the "On hold" status, all staff members can know that communication is happening between staff and the user, avoiding prematurely pricing a faulty model.
-   - Jobs should only be taken out of the "On Hold" status by staff members who are communicating specifically with a user about their project. 
+   - Jobs should only be taken out of the "On Hold" status by staff members who are communicating specifically with a user about their project.
 
-10. **Staff Notes** box: 
+10. The DSC has a loose policy on personal projects since our primary objective is to assist with academic endeavors. Once a student has excided the limit, a red message will appear for every job by this user.
+    - When the queue is quiet, DSC staff can choose to allow students to go over this limit at their discretion, as the policy was introduced to avoid delaying academic projects during busy periods.
+    - As needed, the DSC can also prohibit personal projects completely for a given time as needed to catch up on the queue. If such a decision is taken, you will be informed by a supervisor. 
+
+11. **Staff Notes** box: 
     - this box is for communications between staff members and can only be seen by **Admin** users.  Make notes in this box if there are problems with the print, you're emailed a user, or any other special notes about a specific print.
     - example: 'emailed user about their special requests, do not price yet - Feb 8, Victoria'
     - example: 'multiple files, priced for all 4 items'
