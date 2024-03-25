@@ -26,21 +26,23 @@ parent: General Responsabilities
     - Change settings as needed in Cura, then **Slice** to calculate the price.  PLA and PETG are **$0.10/gram**, PVA and TPU95 are **$0.20/gram**.
     - Enter the price in the web app, set Status to Pending Payment, and click **Save**.
   
-6. Academic jobs are identified by users upon submission of a job. For these jobs, users can identify a deadline for their project.
+6. Academic jobs are identified by users upon submission of a job. For these jobs, users can identify a deadline for their project. 
+    - The course code and submission deadlines can be seen on the job information page.
+    - In the dashboard, "purpose" is identified as academic or personal (with academic jobs being at the top of the list). Academic jobs are prioritized over personal jobs
 
-7. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise).
+8. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise).
     - Items need to be financially linked, to do this, select one item and mark the other models that are being priced together as **children**.
     - You can change the status of multiple linked jobs, or multiple active jobs for the same user simultaneously by checking the **"Update statuses to match"** box.
     - By updating statuses to match, we can avoid forgetting to move one model in the queue, reducing chances of errors. 
         - Note that you cannot update statuses to match and abandon a job as a child simultaneously. 
     - If updating statuses individually (rare), when we save a job as 'pending payment' or 'completed', an email is automatically sent to the user.  Since we don't want to send multiple emails for a bundle of prints, make sure to **uncheck Enable Email** at the bottom of the page for every print **other than the one you've priced**.
   
-8. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
+9. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
    - Depending on your role, you may be asked to email users about their print jobs.
    - By being at the "On hold" status, all staff members can know that communication is happening between staff and the user, avoiding prematurely pricing a faulty model.
    - Jobs should only be taken out of the "On Hold" status by staff members who are communicating specifically with a user about their project. 
 
-9. **Staff Notes** box: 
+10. **Staff Notes** box: 
     - this box is for communications between staff members and can only be seen by **Admin** users.  Make notes in this box if there are problems with the print, you're emailed a user, or any other special notes about a specific print.
     - example: 'emailed user about their special requests, do not price yet - Feb 8, Victoria'
     - example: 'multiple files, priced for all 4 items'
