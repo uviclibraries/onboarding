@@ -46,4 +46,4 @@ P.S. Never forget learning is not a spectator sport!
     }
 </script>
 
-[NEXT STEP: Using the laser cutter](additional-resources.html){: .btn .btn-blue }
+[NEXT STEP: Using the laser cutter](laser_adv.html){: .btn .btn-blue }
