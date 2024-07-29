@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Awarding Digital Badges using BADGR
+title: 1 - Awarding Digital Badges using BADGR
 nav_order: 7
 parent: Advanced Responsabilities
 ---
