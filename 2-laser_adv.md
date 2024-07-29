@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Using the laser cutter
+title: 2 - Using the laser cutter
 nav_order: 8
 parent: Advanced Responsabilities
 ---
