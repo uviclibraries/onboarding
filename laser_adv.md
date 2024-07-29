@@ -13,10 +13,6 @@ parent: Advanced Responsabilities
 
 
 ```
-  <button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-      <img src="images/badgr-digital-badges.gif">
-      </div>
 
  <script>  
 
