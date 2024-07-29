@@ -12,7 +12,6 @@ parent: Advanced Responsabilities
 2. At any point if the filter unit stops working, smoke will no longer be sucked up. The laser cutter can be stopped in a few ways, with the pause button, the stop button, as well as the emergency stop red button. 
 
 
-```
 
  <script>  
 
