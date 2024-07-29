@@ -8,7 +8,7 @@ nav_order: 14
 ## Staff Resources
 - [DSC Google Drive](https://drive.google.com/drive/folders/0BxJ017RDW9tGdWJaWE81SGZKc3M?resourcekey=0-wzBHdf7U1XWSaQRKbOLWdQ){:target="_blank"}
 - [DSC Website](https://onlineacademiccommunity.uvic.ca/dsc/){:target="_blank"}
-- Trello Board: [https://trello.com/b/PcVNYlLM/digital-scholarship-commons](https://trello.com/b/PcVNYlLM/digital-scholarship-commons){:target="_blank"}
+- MS Teams Task Manager
 - Github markdown references: 
     - [Google Doc: GitHub Coding Sheet](https://docs.google.com/document/d/1kwmULaiC4igC1DS6neg71kZ_aKs0ngR_1Mb7kW-LLdI/edit){:target="_blank"}
     - [Google Doc: Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){:target="_blank"}
@@ -23,4 +23,4 @@ nav_order: 14
 - Victoria Hartman, workshop creation
 - All DSC assistants, interns and work-study students for their contributions to the DSC
 
-[NEXT STEP: land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
+[NEXT STEP: Land Acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
