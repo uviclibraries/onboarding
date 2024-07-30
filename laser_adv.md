@@ -22,6 +22,8 @@ Like other pieces of equipment, the laser cutter requires regular maintenance, i
 3. Disposing of scraps: Boxes are available in the laser cutting room to place any small, unusable pieces left over from previous jobs. When this box is full, Rich can arrange for a pickup. 
 
 
+
+
  <script>  
 
     function toggle(input) {
