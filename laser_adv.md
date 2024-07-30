@@ -25,18 +25,4 @@ Like other pieces of equipment, the laser cutter requires regular maintenance, i
 
 
 
-
-
- <script>  
-
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
-
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
