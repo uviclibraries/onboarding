@@ -9,7 +9,9 @@ parent: Advanced Responsabilities
 
 1. Hands-on training is provided if your position requires using the laser cutter.
 
-2. At any point if the filter unit stops working, smoke will no longer be sucked up. The laser cutter can be stopped in a few ways, with the pause button, the stop button, as well as the emergency stop red button. 
+2. At any point if the filter unit stops working, smoke will no longer be sucked up. The laser cutter can be stopped in a few ways, with the pause button, the stop button, as well as the emergency stop red button.
+
+3. At your discretion, scraps from laser cut jobs can be kept (and used for future jobs) and smaller scraps can be disposed of. 
 
 # Maintenance
 
@@ -20,6 +22,7 @@ Like other pieces of equipment, the laser cutter requires regular maintenance, i
 2. Cleaning the lens and mirror: Ruby will frequently indicate if the lens and mirror need to be cleaned. This is important to ensure the accuracy of the cuts and the focus of the laser. When required, cleaning can be done with the lens tissue and the lens cleaner. The laser must be turned **off** when cleaning the lens and mirror for your safety. Carefully remove the mirror by loosening the nob, clean the mirror by making sure to be very gentle, and avoid touching the surface with your fingers. 
 
 3. Disposing of scraps: Boxes are available in the laser cutting room to place any small, unusable pieces left over from previous jobs. When this box is full, Rich can arrange for a pickup. 
+
 
 
 
