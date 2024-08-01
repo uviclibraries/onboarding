@@ -11,7 +11,9 @@ parent: Advanced Responsabilities
 
 2. At any point if the filter unit stops working, smoke will no longer be sucked up. The laser cutter can be stopped in a few ways, with the pause button, the stop button, as well as the emergency stop red button.
 
-3. At your discretion, scraps from laser cut jobs can be kept (and used for future jobs) and smaller scraps can be disposed of. 
+3. At your discretion, scraps from laser cut jobs can be kept (and used for future jobs) and smaller scraps can be disposed of. Small leftover pieces are also great for testing purposes.
+
+4. If you are working with a new material, make sure to create a swatch to ensure that you use appropriate settings for your material. This is especially important with expensive or sparse material. Detailed instructions are available in the laser cutting staff guide. 
 
 # Maintenance
 
