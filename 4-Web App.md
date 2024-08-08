@@ -31,19 +31,19 @@ parent: General Responsabilities
     - In the dashboard, "purpose" is identified as academic or personal (with academic jobs being at the top of the list). Academic jobs are prioritized over personal jobs to meet as many timelines as possible. 
 
 8. If a user submits **multiple files** at the same time, price all items together (unless they request otherwise). <img src="images/March_2024/01.Parent child example.png" style="width:800px;" alt="">
-    - Items need to be financially linked, to do this, select one item and mark the other models that are being priced together as **children**.
-    - You can change the status of multiple linked jobs, or multiple active jobs for the same user simultaneously by checking the **"Update statuses to match"** box.
+    - Items need to be financially linked. To do this, select one item and mark the other models that are being priced together as **children**.
+    - You can change the status of multiple linked jobs, or multiple active jobs, for the same user simultaneously by checking the **"Update statuses to match"** box.
     - By updating statuses to match, we can avoid forgetting to move one model in the queue, reducing the chances of errors. 
         - Note that you cannot update statuses to match and abandon a job as a child simultaneously.
-    - When jobs have been set as parent and child(ren), the user will only be able to pay for the set as a whole, if they try to pay from the job page of a child, they will see a message similar to this one.  <img src="images/March_2024/04.financiallylinked.png" style="width:800px;" alt="Jobs are financially linked message">
+    - When jobs have been set as parent and child(ren), the user will only be able to pay for the set as a whole, if they try to pay from the job page of a child, they will see a message similar to this one.  **Make sure to put the price of the whole project in the Parent job. If the price is put in one of the child jobs, this will create a problem for the person attempting to pay since it is not possible to pay from a child job.**<img src="images/March_2024/04.financiallylinked.png" style="width:800px;" alt="Jobs are financially linked message">
     - If updating statuses individually (rare), when we save a job as 'pending payment' or 'completed', an email is automatically sent to the user.  Since we don't want to send multiple emails for a bundle of prints, make sure to **uncheck Enable Email** at the bottom of the page for every print **other than the one you've priced**.
   
-9. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold**.
-   - Depending on your role, you may be asked to email users about their print jobs.
+9. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold and put a note in the the job so that other admin staff know why that job is On Hold**.
+   - Depending on your role, you may be the one to email users about their print jobs.
    - By being at the "On hold" status, all staff members can know that communication is happening between staff and the user, avoiding prematurely pricing a faulty model.
    - Jobs should only be taken out of the "On Hold" status by staff members who are communicating specifically with a user about their project.
 
-10. The DSC has a loose policy on personal projects since our primary objective is to assist with academic endeavors. Once a student has excided the limit, a red message will appear for every job by this user.
+10. The DSC has a loose policy on personal projects since our primary objective is to assist with academic endeavors. Once a student has exceeded the limit of hours of personal projects allowed, a red message will appear for every job by this user.
     - When the queue is quiet, DSC staff can choose to allow students to go over this limit at their discretion, as the policy was introduced to avoid delaying academic projects during busy periods.
     - As needed, the DSC can also prohibit personal projects completely for a given time as needed to catch up on the queue. If such a decision is taken, you will be informed by a supervisor. 
 
