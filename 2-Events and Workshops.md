@@ -21,6 +21,6 @@ parent: General Responsabilities
 
 3. The red carpeted corridor leading from the doors next to the DSC desk to the back offices **must be open and clear at all times**.  It is a fire corridor and cannot be blocked or obstructed.
     
-4. After an event, the organizers are responsible for returning tables & chairs to their **original configuration**.  A guide to the default table setup is taped on the wall next to the AV cabinet.
+4. After an event, the organizers are responsible for returning tables & chairs to their **original configuration** unless they have booked someone to reset the room for them. (Occasionally, this will be neglected and we will need to reset the room.)  A guide to the default table setup is taped on the wall next to the AV cabinet.
 
 [NEXT STEP: 3D Printing](3-3D Printing.html){: .btn .btn-blue }
