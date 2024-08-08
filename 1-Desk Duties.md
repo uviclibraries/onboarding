@@ -42,8 +42,6 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
     - Students and faculty can use the special software (Adobe suite, FineReader, and Scanning) computers first-come-first-serve.  
     - Special equipment (digital calipers, hand tools, etc) can be borrowed and used **while in the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits and recording equipment** are loaned out from the main library desk. If students need tools such as digital calipers and multimeters, some of those are available for borrowing at the main library desk on the first floor as well.
 
-    <img src="images/1-Trello.png" style="margin-left:20px; float:right;width:100px;" alt="trello">
-
 6. Additional Projects and Tasks
     - DSC projects and tasks are managed in Teams in the DSC team DSC Projects task planner. Make sure you have Teams running on your computer when you log in, as this is a primary source of quick communication. Many of us have this installed as an app on our phones so we can contact each other across campus, but this is optional. 
     - You can work on tasks assigned to you, or assign yourself a task from the **Unassigned Projects** column. 
