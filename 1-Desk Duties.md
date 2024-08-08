@@ -39,15 +39,14 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
 5. Managing the DSC Space and Tools:
     - Students are allowed to talk in the DSC area, although the rest of the 3rd floor is silent space.  If volume gets too loud, you can politely remind them that sound travels easily to other areas of the library.
     - The red carpeted corridor leading from the doors next to the DSC desk to the back offices **must be clear at all times**.  It is a fire corridor and cannot be blocked. <img src="images/1-equipment_collage.jpg" style="margin-left:20px; float:right;width:250px;" alt="equipment">
-    - Students and faculty can use the special software (Adobe suite, FineReader, and Scanning) computers first-come-first-serve.  Instructions on using the scanner are taped to the top of the scanner. 
-    - Special equipment (digital calipers, hand tools, sewing machine, etc) can be borrowed and used **In the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits and recording equipment** are loaned out from the main library desk.
+    - Students and faculty can use the special software (Adobe suite, FineReader, and Scanning) computers first-come-first-serve.  
+    - Special equipment (digital calipers, hand tools, etc) can be borrowed and used **while in the DSC space**.  Small electronics parts (resistors, sensors, wires etc) are loaned out on the honor system and should be returned as soon as the student is finished using them.  **Raspberry Pi kits and recording equipment** are loaned out from the main library desk. If students need tools such as digital calipers and multimeters, some of those are available for borrowing at the main library desk on the first floor as well.
 
     <img src="images/1-Trello.png" style="margin-left:20px; float:right;width:100px;" alt="trello">
 
 6. Additional Projects and Tasks
-    - DSC projects and tasks are managed with **Trello**: [https://trello.com/b/PcVNYlLM/digital-scholarship-commons](https://trello.com/b/PcVNYlLM/digital-scholarship-commons){:target="_blank"}
-    - You can work on tasks assigned to you, or assign yourself a task from the **Unassigned Projects** column. <img src="images/1-filter.png" style="margin-left:20px; float:right;width:90px;" alt="filter">
-    - You can easily see the tasks assigned to you by using the Filter button.
+    - DSC projects and tasks are managed in Teams in the DSC team DSC Projects task planner. Make sure you have Teams running on your computer when you log in, as this is a primary source of quick communication. Many of us have this installed as an app on our phones so we can contact each other across campus, but this is optional. 
+    - You can work on tasks assigned to you, or assign yourself a task from the **Unassigned Projects** column. 
     - Once you have finished a task, move the task card to **Ready for Review**.  Rich will move the card to Completed Projects after reviewing.
    
 
