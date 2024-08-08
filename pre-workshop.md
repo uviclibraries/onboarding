@@ -13,4 +13,4 @@ To participate fully please do the following **before the workshop**:
 - Know how to find [library hours](https://www.uvic.ca/library/locations/index.php){:target="_blank"} and [floor maps](https://www.uvic.ca/library/use/floormaps/index.php){:target="_blank"} 
     - We recommend that you bookmark these links for quick reference.
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Introduction to Practical Activities](activities-intro.html){: .btn .btn-blue }
