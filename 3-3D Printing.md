@@ -28,7 +28,7 @@ parent: General Responsabilities
 
 8. Optional: open and get familiar with **MakerBot** software. The Makerbot printer is older and lower quality so it is generally only used at high volume times.
 
-9. Hands-on training: 
+9. Practical training: 
     - practise sending a file to 3D print
     - practise changing the filament in the printers
     - practise removing a completed print from the printbed
