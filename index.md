@@ -10,7 +10,7 @@ nav_order: 1
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 10 min
-- Hands-on activities: 50-120 min
+- Practical activities: 50-120 min
 
 ## Welcome to the DSC! 
 
@@ -29,6 +29,6 @@ At the end of this workshop, you will be able to:
 1. Understand how 3D printing and laser cutting at the DSC works
 2. Navigate the DSC web app on the user and admin side
 3. Answer frequently asked questions when working at the DSC assistant desk
-4. Use Trello to track tasks
+4. Use Teams to track tasks
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
