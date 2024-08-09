@@ -2,7 +2,7 @@
 layout: default
 title: 2 - Events 
 nav_order: 3
-parent: General Responsabilities
+parent: General Responsibilities
 ---
 <img src="images/2-buttons.jpg" style="margin-left:20px; float:right;width:250px;" alt="buttons">
 
