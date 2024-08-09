@@ -2,7 +2,7 @@
 layout: default
 title: 1 - Awarding Digital Badges using BADGR
 nav_order: 7
-parent: Advanced Responsabilities
+parent: Advanced Responsibilities
 ---
 
 # How to award digital badges using the DSC Badgr Account
