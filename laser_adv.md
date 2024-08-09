@@ -2,7 +2,7 @@
 layout: default
 title: 2 - Laser Cutter Maintenance
 nav_order: 8
-parent: Advanced Responsabilities
+parent: Advanced Responsibilities
 ---
 
 # How to run laser cut jobs
