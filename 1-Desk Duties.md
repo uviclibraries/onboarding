@@ -2,7 +2,7 @@
 layout: default
 title: 1 - Desk Duties
 nav_order: 2
-parent: General Responsabilities
+parent: General Responsibilities
 ---
 <img src="images/directions.png" style="margin-left:20px; float:right;width:300px;" alt="equipment">
 
