@@ -2,7 +2,7 @@
 layout: default
 title: 3 - 3D Printing
 nav_order: 4
-parent: General Responsabilities
+parent: General Responsibilities
 ---
 # 3D Printing
 
