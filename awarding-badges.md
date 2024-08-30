@@ -19,15 +19,19 @@ parent: Advanced Responsibilities
 8. Once you have awarded the badge to the workshop participant send this message to the email address provided (copy and paste the message below).
 
 ```
-Great job!  Your digital badge is on its way to you. Here are instructions on how to add your badge to your LinkedIn certifications: https://lib.uvic.ca/badges
+Great job! Here is your badge: 
+**Add the link to the badges for the learner** 
+
+Here are instructions on how to add your badge to your LinkedIn certifications: https://lib.uvic.ca/badges
 
 If you would like to check out some of our other DSC workshops, you can see what we have coming up here: https://lib.uvic.ca/curric
 
 Lastly, we'd love to get your feedback on what aspect of the workshop was most helpful to you, and what we might do to improve it: https://lib.uvic.ca/eval
 
-Cheers, _______________
+Cheers, _________
 
-P.S. Never forget learning is not a spectator sport!
+P.S. Never forget that learning is not a spectator sport!
+
 ```
   <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
