@@ -19,8 +19,8 @@ parent: Advanced Responsibilities
 8. Once you have awarded the badge to the workshop participant send this message to the email address provided (copy and paste the message below).
 
 ```
-Great job! Here is your badge: 
-**Add the link to the badges for the learner** 
+Great job! Here is your badge:
+______**Add the link to the badges for the learner**_______
 
 Here are instructions on how to add your badge to your LinkedIn certifications: https://lib.uvic.ca/badges
 
