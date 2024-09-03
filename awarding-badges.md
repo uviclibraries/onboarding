@@ -16,7 +16,7 @@ parent: Advanced Responsibilities
    <img src="images/badge-award.png">
 7. Copy and paste the email address of the badge earner in the identifier email address. Then press the **Award badge** button.
  <img src="images/email.png">  
-8. Once you have awarded the badge to the workshop participant send this message to the email address provided (copy and paste the message below).
+8. Once you have awarded the badge to the workshop participant send this message to the email address provided (copy and paste the message below) **from the DSC email**, do **not use your personal email**.
 
 ```
 Great job! Here is your badge:
