@@ -36,7 +36,7 @@ parent: General Responsibilities
     - By updating statuses to match, we can avoid forgetting to move one model in the queue, reducing the chances of errors. 
         - Note that you cannot update statuses to match and abandon a job as a child simultaneously.
     - When jobs have been set as parent and child(ren), the user will only be able to pay for the set as a whole, if they try to pay from the job page of a child, they will see a message similar to this one.  **Make sure to put the price of the whole project in the Parent job. If the price is put in one of the child jobs, this will create a problem for the person attempting to pay since it is not possible to pay from a child job.**<img src="images/March_2024/04.financiallylinked.png" style="width:800px;" alt="Jobs are financially linked message">
-    - If updating statuses individually (rare), when we save a job as 'pending payment' or 'delivered', an email is automatically sent to the user.  Since we don't want to send multiple emails for a bundle of prints, make sure to **uncheck Enable Email** at the bottom of the page for every print **other than the one you've priced**.
+    - If updating statuses individually (rare), when we save a job as 'pending payment' or 'delivered', an email is automatically sent to the user.  Since we don't want to send multiple emails for a bundle of prints, make sure to **match status** for jobs which are associated with Perent-Children.
   
 9. If a user needs to be emailed for clarification or any other purposes, please change the job status to **On Hold and put a note in the the job so that other admin staff know why that job is On Hold**.
    - Depending on your role, you may be the one to email users about their print jobs.
