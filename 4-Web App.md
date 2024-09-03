@@ -49,7 +49,7 @@ parent: General Responsibilities
 
 11. **Staff Notes** box: 
     - this box is for communications between staff members and can only be seen by **Admin** users.  Make notes in this box if there are problems with the print, you're emailed a user, or any other special notes about a specific print.
-    - example: 'emailed user about their special requests, do not price yet - Feb 8, Victoria'
+    - example: 'emailed user about their special requests - Feb 8, Victoria' -> **place to Hold status**
     - example: 'multiple files, priced for all 4 items'
     - example: 'no charge for print, see email correspondence'
 
