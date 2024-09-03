@@ -27,4 +27,4 @@ The laser cutter can cut or engrave wood, paper, cardboard, and more.  Currently
     - learn about fire protocols and laser safety (i.e don't look directly at the laser beam)
     - optional: take the Uvic laser safety awareness course: [https://www.uvic.ca/ohse/training/research-safety/laser-safety/index.php](https://www.uvic.ca/ohse/training/research-safety/laser-safety/index.php)
 
-[NEXT STEP: Workshops](6-workshop.html){: .btn .btn-blue }
+[NEXT STEP: Workshops](workshop.html){: .btn .btn-blue }
