@@ -22,7 +22,7 @@ parent: General Responsibilities
 4. The main admin dashboard sorts each job by status: submitted, payment pending, paid, printing, completed, and archived.  Click on a submitted job to see more information.
 
 5. When a job is submitted, open it and download the file.  Open the file in Cura, then check all of the requested settings. <img src="images/3-download.png" style="margin-left:20px; float:right; width:150px;" alt="dashboard menu">
-    - The settings that most often are missed when pricing are the **Number of Copies** and special settings in the **comments box** like colour, sizing, etc.
+    - The settings that most often are missed when pricing are the **Number of Copies** and **Scale**, special settings in the **comments box** like colour, sizing, etc.
     - Change settings as needed in Cura, then **Slice** to calculate the price.  PLA and PETG are **$0.10/gram**, PVA and TPU95 are **$0.20/gram**.
     - Enter the price in the web app, set Status to Pending Payment, and click **Save**.
   
