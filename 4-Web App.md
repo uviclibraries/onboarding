@@ -24,7 +24,7 @@ parent: General Responsibilities
 5. When a job is submitted, open it and download the file.  Open the file in Cura, then check all of the requested settings. <img src="images/3-download.png" style="margin-left:20px; float:right; width:150px;" alt="dashboard menu">
     - The settings that most often are missed when pricing are the **Number of Copies** and **Scale**, special settings in the **comments box** like colour, sizing, etc.
     - Change settings as needed in Cura, then **Slice** to calculate the price.  PLA and PETG are **$0.10/gram**, PVA and TPU95 are **$0.20/gram**.
-    - Enter the price in the web app, set Status to Pending Payment, and click **Save**.
+    - Enter the price in the web app **(on the parent file)** and the duration in minutes, set Status to Pending Payment, and click **Save**.
   
 6. Academic jobs are identified by users upon submission of a job. For these jobs, users can identify a deadline for their project. 
     - The course code and submission deadlines can be seen on the job information page.
