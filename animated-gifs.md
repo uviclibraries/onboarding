@@ -60,49 +60,30 @@ Note: Aim for your recording and final edits to be less than 25 seconds
     <img src="images/transitions.gif">
     </div>
    
-**5. Adjusting view and adding Animations** 
-- Select the video in the timeline
-- On the right hand side, select the **visual properties** icon
-- To zoom in or out adjust the scale (if you zoom out, note that the black around the image will be viewed like that). 
-- Drag the image by clicking and dragging to the section of the image that you would like to zoom in on. This will be the view for the whole recording
-- Now if you only want to zoom in on one specific section, go to the animation tab and select **Scale up** and drag to the section (you wish to zoom in) in the video timeline
-- Adjust the animation by clicking on the arrow and repeating step b-d (note that you have to adjust the whole animation as it is moving in, therefore the view may be slightly different throughout the animation)
-- After you **scale up** you can **scale to fit** which will bring you back to the original view of the video.
-- You can also **scale down** if you only want to be able to see part of the recording still.
-- Finally, you can modify the animation length by clicking on the white edge of the arrow and dragging it longer or shorter. 
-
-**6. Scale curser/ Adding Cursor Effects**
-- To adjust cursor of the whole video, go to the right hand side of the screen and select **cursor properties**
-- Next modify the scale, scale the cursor to “**0%**” as we will add in cursor effects next
-- Select **cursor effects** on the left hand side of the screen
+**5. Scale curser/ Adding Cursor Effects**
+- To adjust cursor of the whole video, go to the right hand side of the screen and select **cursor effects**
 - Click and drag the **magnify**  to the video timeline
-- Now adjust the length by moving in the edges (similar to step 3a). Adjust the end of the video cursor to end 1-2 seconds before the end of the video
+- Now adjust the length by moving in the edges. Adjust the end of the video cursor to end 1-2 seconds before the end of the video
+  
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/magnify.gif">
+    </div>
+
 - Select the cursor magnify element in the bottom of the video timeline
 - Now modify some of the parameters according to what works for your video (you can adjust the size of the curser, shadow, softness, zoom and the ease in/ out).
 - There will already be an ease out, the 1 second is usually perfect to end the video
 
-**7. Adding Annotations**
-- Select the annotation tab
-- Here you can add callouts, arrows and lines, shapes, blur and highlights, sketch motions and keystroke callout.
-- In this workshop we will highlight an important element in our video.
-- Select the “Blur and highlight” element.
-- Drag the yellow highlight to right above the video timeline (in track 2).
-- Move the highlight to where you would like it in the video and adjust the length of time
-- To move the highlight to the word or object you would like, move the yellow highlight where you view the video
-- On the right hand side you can adjust the colour and opacity that works for you.
 
 **Paid version Steps**
-**8. Save and Exporting to create animated GIF (only available in paid version)**
+**6. Save and Exporting to create animated GIF (only available in paid version)**
 - Go to **File** and **Save as**. This will save your file as a camtasia file so that you can go back and modify or adjust later.
 - Next to export it and create an animated GIF, select **Export** (green icon at the top right)
 - Click **Local file**
 - File format **Animated GIF** (.gif)” and “**export**”
 - If the file is too large to add to Github, repeat the previous steps but in step d, select options and change dimensions of GIF to 50%
 
-**9. Adding to Google Docs (only available in paid version)**
-- Select **insert** and from the toggle click **image**
-- Upload from computer by selecting **desktop** and **open**
-Adjust the spacing by clicking on the GIF that is now Google Docs, click on **wrap text** and change the margin to **O%**
+NOTE: If the screen recording background is mostly white, add in a plain white screenshot so that the circle reveal is white background instead of black. 
 
 <script>  
 
