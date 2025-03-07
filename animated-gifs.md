@@ -44,6 +44,11 @@ parent: Advanced Responsibilities
  - If you do not like the change, select the **backwards arrow** or **command Z**
 Note: Aim for your recording and final edits to be less than 25 seconds
 
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/editing.gif">
+    </div>
+    
 **4. Adding Transitions**
 - Select the transitions tab 
 - Next select **Circle Reveal** and drag it to the beginning of your video in the timeline below.
@@ -93,3 +98,15 @@ Note: Aim for your recording and final edits to be less than 25 seconds
 - Select **insert** and from the toggle click **image**
 - Upload from computer by selecting **desktop** and **open**
 Adjust the spacing by clicking on the GIF that is now Google Docs, click on **wrap text** and change the margin to **O%**
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
