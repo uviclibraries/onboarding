@@ -64,6 +64,7 @@ Note: Aim for your recording and final edits to be less than 25 seconds
 - To adjust cursor of the whole video, go to the right hand side of the screen and select **cursor effects**
 - Click and drag the **magnify**  to the video timeline
 - Now adjust the length by moving in the edges. Adjust the end of the video cursor to end 1-2 seconds before the end of the video
+- Also on the right hand side under magnify window, adjust the **Ease out** to 0.5s
   
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
@@ -72,8 +73,18 @@ Note: Aim for your recording and final edits to be less than 25 seconds
 
 - Select the cursor magnify element in the bottom of the video timeline
 - Now modify some of the parameters according to what works for your video (you can adjust the size of the curser, shadow, softness, zoom and the ease in/ out).
-- There will already be an ease out, the 1 second is usually perfect to end the video
 
+
+Final Checks of a Good animated Gif
+- It is between 5-25 seconds
+- It has a Circle Reveal for the beginning 
+- It uses a Magnify for the Cursor
+
+See Animated Gif for an example with these elements (note the other animated gifs in this activity are just the steps with none of the extra features in order for it to be focused on the designated step).
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
+    <img src="images/example.gif">
+    </div>
 
 **Paid version Steps**
 **6. Save and Exporting to create animated GIF (only available in paid version)**
@@ -83,7 +94,7 @@ Note: Aim for your recording and final edits to be less than 25 seconds
 - File format **Animated GIF** (.gif)” and “**export**”
 - If the file is too large to add to Github, repeat the previous steps but in step d, select options and change dimensions of GIF to 50%
 
-NOTE: If the screen recording background is mostly white, add in a plain white screenshot so that the circle reveal is white background instead of black. 
+
 
 <script>  
 
