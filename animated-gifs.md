@@ -6,6 +6,7 @@ parent: Advanced Responsibilities
 ---
 
 # Animated Gifs with Camtasia
+<img src="images/camtasia-logo.png" style="float:right;width:180px;" alt="Camtasia logo">
 
 ### Learning outcomes:
 - Participants will be able to know and do the following by the end of this workshop:
