@@ -73,7 +73,7 @@ Note: Aim for your recording and final edits to be less than 25 seconds
 
 - Select the cursor magnify element in the bottom of the video timeline
 - Now modify some of the parameters according to what works for your video (you can adjust the size of the curser, shadow, softness, zoom and the ease in/ out).
-<img src="images/cursor-settings.png" style="width:400px;" alt="Cursor settings options">
+<img src="images/cursor-settings.png" style="width:300px;" alt="Cursor settings options">
 
 Final Checks of a Good animated Gif
 - It is between 5-25 seconds
