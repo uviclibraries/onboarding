@@ -32,8 +32,8 @@ parent: Advanced Responsibilities
   - Do your demonstration showing your explanation using your cursor and then press the **Stop Recording** button at the top of the screen (in the screen bar) when you are done. (Please note: try to limit your recording to approximately 30 seconds)
   - The video will automatically transfer to Camtasia in order to move onto editing
 
-<img src="images/recording.png" style="width:250px;" alt="Recording button">
-<img src="images/recording-2.png" style="width:200px;" alt="Recording region">
+<img src="images/recording.png" style="width:400px;" alt="Recording button">
+<img src="images/recording-2.png" style="width:400px;" alt="Recording region">
 
 2. View and Play the Recording by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 
