@@ -55,7 +55,7 @@ Note: Aim for your recording and final edits to be less than 25 seconds
 - Next select **Fade** and drag it to the end of your video in the timeline below.
 - Now modify the length of these transitions by moving your cursor to the edge and dragging the handle to make it last longer or shorter.
   
- <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/transitions.gif">
     </div>
