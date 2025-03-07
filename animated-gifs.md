@@ -35,7 +35,7 @@ parent: Advanced Responsibilities
 <img src="images/recording.png" style="width:400px;" alt="Recording button">
 <img src="images/recording-2.png" style="width:400px;" alt="Recording region">
 
-2. View and Play the Recording by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
+View and Play the Recording by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 
 **3. Editing a recording using Camtasia**
  - Trim the start and end of the video by selecting the video in the timeline and then moving the mouse pointer over the end of the video clip and then drag the handle to the left. The same can be done with the beginning of the video if you’d like.
