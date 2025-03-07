@@ -81,11 +81,12 @@ Final Checks of a Good animated Gif
 - It uses a Magnify for the Cursor
 
 See Animated Gif for an example with these elements (note the other animated gifs in this activity are just the steps with none of the extra features in order for it to be focused on the designated step).
-    <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
-    <img src="images/example.gif">
-    </div>
 
+  <button onclick="toggle('gif4')">Show/Hide Animation</button>
+  <div id="gif4">
+  <img src="images/example.gif">
+  </div>
+  
 **Paid version Steps**
 **6. Save and Exporting to create animated GIF (only available in paid version)**
 - Go to **File** and **Save as**. This will save your file as a camtasia file so that you can go back and modify or adjust later.
@@ -93,8 +94,6 @@ See Animated Gif for an example with these elements (note the other animated gif
 - Click **Local file**
 - File format **Animated GIF** (.gif)” and “**export**”
 - If the file is too large to add to Github, repeat the previous steps but in step d, select options and change dimensions of GIF to 50%
-
-
 
 <script>  
 
