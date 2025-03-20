@@ -29,7 +29,7 @@ parent: Advanced Responsibilities
   - If you would like to add a video of yourself, tick on the Facetime option, if you would like to add built in or system audio (same thing), but for the purpose of this workshop we will only select the **screen record option** as an animated GIF has no sound.
   - Finally click **Start Recording**
   - Camtasia will count down from three seconds before it starts recording.
-  - Do your demonstration showing your explanation using your cursor and then press the **Stop Recording** button at the top of the screen (in the screen bar) when you are done. (Please note: try to limit your recording to approximately 30 seconds)
+  - Do your demonstration showing your explanation using your cursor and then press the **Stop Recording** button at the top of the screen (in the screen bar) when you are done. (Please note: try to limit your recording to approximately 20-25 seconds max)
   - The video will automatically transfer to Camtasia in order to move onto editing
 
 <img src="images/recording.png" style="width:400px;" alt="Recording button">
