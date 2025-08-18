@@ -17,7 +17,7 @@ parent: General Responsibilities
 4. Browse some 3D prints on [thingiverse](https://www.thingiverse.com/){:target="_blank"}  and [printables](https://www.printables.com/model){:target="_blank"}.  Get familiar with the wide array of items and download one or two items you find interesting.
     <img src="images/3-cura.png" style="float:right;width:50px;" alt="cura logo">
 
-5. Make sure you can open and navigate **Cura** on the DSC computer. You should see **5** Ultimaker printers connected (Ada, Brunel, Claudia, Diana, and LittleE), if you do not see all the printers, follow step 6, if all the printers are connected, skip to step 7.
+5. Make sure you can open and navigate **Cura** on the DSC computer. You should see **5** Ultimaker printers connected (Ada, Brunel, Claudia, Diana, and Escher), if you do not see all the printers, follow step 6, if all the printers are connected, skip to step 7.
    
 6. First, click on the printers you can see on the upper left side of the page, and click on "Manage printers". Next, a pop-up box will appear, click on "Add New", located in the top right corner of the page. You will then be prompted to ask if you want to add an Ultimaker or Non-Ultimaker printer, click on "Ultimaker printer". Finally, **sign in to Digital Factory**. If you do not have an account, create one and ask Dani to be added to the DSC group. Your printers should now be automatically added to Cura. If you have any issues at this stage, please ask Dani for help. You might have to shut down and restart your computer multiple times before being able to see the printers.
 
@@ -26,7 +26,9 @@ parent: General Responsibilities
     - Rotate pieces to position them at the optimal orientation!
     - Google is also a great tool!
 
-8. Optional: open and get familiar with **MakerBot** software. The Makerbot printer is older and lower quality so it is generally only used at high volume times.
+8. Optional: open and get familiar with **BambuStudio** software. BambuStudio is the slicing software used with Franziska, our Bambu printer. The interface is fairly similar to Cura's, but taking some time to get familiar with it will be a benefit. It has more advanced options than Cura, such as the ability to 'paint' supports onto the model. 
+
+**Note** We also have a Makerbot printer. It is semi-retired, and is typically only used for demonstrations at tabling events. 
 
 9. Practical training: 
     - practise sending a file to 3D print
