@@ -14,7 +14,7 @@ parent: General Responsibilities
 
 3. Read the pamphlets on 3D printing at the DSC desk.
 
-4. Browse some 3D prints on [thingiverse](https://www.thingiverse.com/){:target="_blank"}  and [printables](https://www.printables.com/model){:target="_blank"}.  Get familiar with the wide array of items and download one or two items you find interesting.
+4. Browse some 3D prints on [Makerworld](https://www.makerworld.com/){:target="_blank"}  and [printables](https://www.printables.com/model){:target="_blank"}.  Get familiar with the wide array of items and download one or two items you find interesting.
     <img src="images/3-cura.png" style="float:right;width:50px;" alt="cura logo">
 
 5. Make sure you can open and navigate **Cura** on the DSC computer. You should see **5** Ultimaker printers connected (Ada, Brunel, Claudia, Diana, and Escher), if you do not see all the printers, follow step 6, if all the printers are connected, skip to step 7.
