@@ -8,7 +8,7 @@ parent: General Responsibilities
 
 3D Printing and Laser Cutting requests are submitted via the DSC Web App: [https://webapp.library.uvic.ca/3dprint/customer-dashboard.php](https://webapp.library.uvic.ca/3dprint/customer-dashboard.php).  Open the link and follow the instructions below to get familiar with how to use the app.
 
-1. If you don't already have an account, create one using your netlink ID.
+1. If you don't already have an account, create one using your Netlink ID. Let Dani or Rich know once this is done so that you can be added as an admin member.
 
 2. Click 'Create New Print Job' and  read through the submission form.
 
@@ -44,11 +44,12 @@ parent: General Responsibilities
    - Jobs should only be taken out of the "On Hold" status by staff members who are communicating specifically with a user about their project.
 
 10. The DSC has a loose policy on personal projects since our primary objective is to assist with academic endeavors. Once a student has exceeded the limit of hours of personal projects allowed, a red message will appear for every job by this user.
-    - When the queue is quiet, DSC staff can choose to allow students to go over this limit at their discretion, as the policy was introduced to avoid delaying academic projects during busy periods.
-    - As needed, the DSC can also prohibit personal projects completely for a given time as needed to catch up on the queue. If such a decision is taken, you will be informed by a supervisor. 
+    - When the queue is quiet, DSC staff can choose to allow students to go over this limit at their discretion, as the policy was introduced to avoid delaying academic projects during busy periods. 
+    - As needed, the DSC can also prohibit personal projects completely for a given time as needed to catch up on the queue. If such a decision is taken, you will be informed by a supervisor.
+    - It is worth noting that we rarely ever need to enforce this limit. This was first introduced during a time when we had one student in particular  flooding our queue with an extensive list of models while we were getting busy with academic projects.
 
 11. **Staff Notes** box: 
-    - this box is for communications between staff members and can only be seen by **Admin** users.  Make notes in this box if there are problems with the print, you're emailed a user, or any other special notes about a specific print.
+    - this box is for communications between staff members and can only be seen by **Admin** users.  Make notes in this box if there are problems with the print, you're emailed a user, or any other special notes about a specific print. This notes function is particularly important to avoid confusion when multiple staff are maintaining the queue.
     - example: 'emailed user about their special requests - Feb 8, Victoria' -> **place to Hold status**
     - example: 'multiple files, priced for all 4 items'
     - example: 'no charge for print, see email correspondence'
