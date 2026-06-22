@@ -61,7 +61,7 @@ Note: Aim for your recording and final edits to be less than 25 seconds
     </div>
    
 **5. Scale curser/ Adding Cursor Effects**
-- To adjust cursor of the whole video, go to the right hand side of the screen and select **cursor effects**
+- To adjust cursor of the whole video, go to the left hand side of the screen and select **cursor effects**
 - Click and drag the **magnify**  to the video timeline
 - Now adjust the length by moving in the edges. Adjust the end of the video cursor to end 1-2 seconds before the end of the video
 - Also on the right hand side under magnify window, adjust the **Ease out** to 0.5s
