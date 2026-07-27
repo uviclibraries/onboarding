@@ -45,7 +45,7 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
 6. Additional Projects and Tasks
     - DSC projects and tasks are managed in Teams in the DSC team DSC Projects task planner. Make sure you have Teams running on your computer when you log in, as this is a primary source of quick communication. Many of us have this installed as an app on our phones so we can contact each other across campus, but this is optional. 
     - You can work on tasks assigned to you, or assign yourself a task from the **Unassigned Projects** column. 
-    - Once you have finished a task, move the task card to **Ready for Review**.  Rich will move the card to Completed Projects after reviewing.
+    - Once you have finished a task, **do NOT** use the Status drop-down to change the task to Completed, instead, move the task card to the **Ready for Review** task list.  Rich will move the card to Completed Projects after reviewing.
    
 
     [NEXT STEP: Events and Workshops](2-Events and Workshops.html){: .btn .btn-blue }
