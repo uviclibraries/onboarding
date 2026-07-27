@@ -8,7 +8,7 @@ parent: General Responsibilities
 
 # DSC Events
 
-1. The DSC room booking schedule is here: [https://staff.library.uvic.ca/dscommons/](https://staff.library.uvic.ca/dscommons/){:target="_blank"}
+1. The DSC room booking schedule is here: [https://staff.library.uvic.ca/dscommons/](https://staff.library.uvic.ca/dscommons/){:target="_blank"}. (Note: this calendar can only be viewed when connected to the internet via ethernet or using the UVic VPN if connected over wireless.)
     - There should also be a paper copy of the week's events posted at both DSC entrances, the template is here: 
     - [https://docs.google.com/presentation/d/1N6A-Hqx9SHT1sFVXAIzduBN1qHFhbmgxyhCNAS2cz5o/edit#slide=id.p](https://docs.google.com/presentation/d/1N6A-Hqx9SHT1sFVXAIzduBN1qHFhbmgxyhCNAS2cz5o/edit#slide=id.p){:target="_blank"}
 
