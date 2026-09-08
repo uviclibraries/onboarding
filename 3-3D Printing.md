@@ -33,13 +33,13 @@ parent: General Responsibilities
 **Note** We also have a Makerbot printer. It is semi-retired, and is typically only used for demonstrations at tabling events. 
 
 9. Practical training: 
-    - practise sending a file to 3D print
-    - practise changing the filament in the printers
-    - practise removing a completed print from the printbed
-    - practise swapping out the glass printbed
-    - practise labeling and dropping off a completed print
-    - optional: practise removing supports from a print
-    - optional: practise Hot & Cold pulls
+    - practice sending a file to 3D print
+    - practice changing the filament in the printers
+    - practice removing a completed print from the printbed
+    - practice swapping out the glass printbed
+    - practice labeling and dropping off a completed print
+    - optional: practice removing supports from a print
+    - optional: practice Hot & Cold pulls
 
 
 [NEXT STEP: Navigating the Web App](4-Web App.html){: .btn .btn-blue }
