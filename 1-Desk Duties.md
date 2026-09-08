@@ -25,7 +25,7 @@ The DSC Desk is the first point of contact for students, staff, faculty and comm
    
 
 3. Answering questions at the desk:  <img src="images/1-map.png" style="margin-left:20px; float:right;width:250px;" alt="map">
-    - Directions and printing questions are most common.  Make sure you're familiar with major library locations ([https://www.uvic.ca/library/use/floormaps/index.php](https://www.uvic.ca/library/use/floormaps/index.php){:target="_blank"}) and the DSC website [FAQ](https://onlineacademiccommunity.uvic.ca/dsc/faq/){:target="_blank"}
+    - Directions and printing questions are most common.  Make sure you're familiar with major library locations ([https://www.uvic.ca/library/use/floormaps/index.php](https://www.uvic.ca/library/use/floormaps/index.php){:target="_blank"}) and the [DSC website](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/digital-scholarship-commons/index.php){:target="_blank"}
     - Track your interactions here: [https://docs.google.com/forms/d/e/1FAIpQLScFA_hQrWr-IlVN0zp_ha9dMO6IJOV1Qsxdu5sQdpiQMRnzLg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScFA_hQrWr-IlVN0zp_ha9dMO6IJOV1Qsxdu5sQdpiQMRnzLg/viewform){:target="_blank"}  
         - This helps DSC managers know who is busy and the needs of library users
         - If the Audience type is unknown, you can leave it blank
